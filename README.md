@@ -2,7 +2,7 @@
 - 👀 I’m interested in Design
 - 🌱 I’m currently learning Visual communication techniques
 - 💞️ I’m looking to collaborate on projects involving design
-- 📫 How to reach me @vishnumaha@protonmail.com
+- 📫 How to reach me vishnumaha@protonmail.com
 
 <!---
 Vinrik/Vinrik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
